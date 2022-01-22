@@ -1,0 +1,14 @@
+{
+    "name": "rellydwedan",
+    "description": "rellydwedan.",
+    "keywords": ["V2Ray"],
+    "env": {
+        "UUID": {
+            "description": "V2Ray UUID",
+            "value": "ad806487-2d26-4636-98b6-ab85cc8521f7"
+        }
+    },
+ 
+    "repository": "https://github.com/maryghewo/rellydwedan",
+    "stack": "container"
+}
